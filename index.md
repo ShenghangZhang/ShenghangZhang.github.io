@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/Duwang.jpg" class="floatpic" width="390" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Shenghang Zhang (Lance, [张圣航](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
 I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
@@ -16,7 +16,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+- **<font color='red'>[News]</font> I am looking for PhD to start in 2024. Contact me if you have any leads!**
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
