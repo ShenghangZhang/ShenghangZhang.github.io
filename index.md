@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://ShenghangZhang.github.io/biye.jpg" class="floatpic" width="390" height="480">
 
-Here is **Shenghang Zhang (Lance, [张圣航](https://ShenghangZhang.github.io/file/蔡汉霖简历.pdf))**.
+Here is **Shenghang Zhang (John, [张圣航](https://ShenghangZhang.github.io/file/张圣航简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://ShenghangZhang.github.io/file/Resume-HanlinCAI.pdf).
+I am a Cloud Computing Engineer in **TK** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://ShenghangZhang.github.io/file/张圣航简历.pdf).
 
 ## Research Interests
 
